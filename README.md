@@ -47,7 +47,4 @@ ________________________________________
 1.	Connect a custom domain using AWS Route 53.
 2.	Use AWS CloudFront for better performance & security.
 3.	Automate Deployment using GitHub Actions or AWS CodePipeline.
-________________________________________
-Now your Brain Wave Solution Intern Project is hosted successfully on AWS S3! 🚀
-Let me know if you need help with any step! 😊
 
